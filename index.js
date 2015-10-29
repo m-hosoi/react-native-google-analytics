@@ -9,5 +9,4 @@ module.exports = {
   },
   Analytics: require('./lib/Analytics'),
   Experiment: require('./lib/Experiment'),
-  Tracking: require('./lib/Tracking')
 };
